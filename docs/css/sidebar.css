@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#wrapper #main #sidebar {
+	margin:0;
+	padding:0;
+	float:right;
+}
+div#wrapper #main #sidebar img {
+	border-left:1px solid #c7c7c7;
+}

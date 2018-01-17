@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#wrapper #main-index {
+	margin:0;
+	padding:0;
+	height:500px;
+	border:2px solid #c7c7c7;
+}
+div#wrapper #main {
+	margin:0;
+	padding:0;
+	border:2px solid #c7c7c7;
+}
+div#wrapper #main .main-image {
+	margin:0;
+	padding:0;
+}
+div#wrapper #main #main-background {
+	background:#fafaf3 url(../images/wrapperBg.gif) no-repeat top center;
+	height:421px;
+	
+}
+div#wrapper #main #content {
+	margin:0;
+	padding:12px 50px 15px 120px;
+	float:left;
+	width:327px;
+}
+div#wrapper #main #content h1 {
+	margin:0 0 20px 0;
+}
+div#wrapper #main #content p {
+	padding:0;
+}
+div#wrapper #main #content strong {
+	color:#022847;
+}
+div#wrapper #main #content-2 {
+	margin:0;
+	padding:12px 50px 15px 120px;
+}
+div#wrapper #main #content-2 h1 {
+	margin:0 0 20px 0;
+}
+div#wrapper #main #content-2 p {
+	padding:0;
+}
+div#wrapper #main #content-2 strong {
+	color:#022847;
+}
+div#wrapper #main #content-2 ul {
+	margin:0;
+	padding:0;
+}
+div#wrapper #main #content-2 ul li{
+	margin:0;
+	padding:0 100px 50px 0;
+	float:left;
+}

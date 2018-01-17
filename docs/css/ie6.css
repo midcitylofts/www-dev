@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+*html body div#wrapper #header #logo {
+	background:url(../images/logo.gif) no-repeat bottom center;
+	top:0;
+}
+*html body div#wrapper #main-index {
+	height:500px;
+}
+*html body div#wrapper #main .main-image {
+	*margin-top:-2px;
+}
+*html body div#wrapper #nav {
+	width:450px;
+}
+
+/*** IE7 ***/
+
+html>body div#wrapper #main .main-image {
+	*margin-top:-2px;
+}
+ 

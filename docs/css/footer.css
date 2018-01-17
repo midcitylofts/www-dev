@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#wrapper #footer {
+	margin:0;
+	padding:20px;
+	text-align:center;
+}

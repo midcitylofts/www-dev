@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#wrapper #header {
+	margin:0;
+	padding:0;
+	width:344px;
+	height:70px;
+	float:left;
+}
+div#wrapper #header #logo {
+	background:url(../images/logo.png) no-repeat bottom center;
+	height:70px;
+	width:288px;
+	position:relative;
+	top:14px;
+	left:24px;
+	z-index:1;
+}
